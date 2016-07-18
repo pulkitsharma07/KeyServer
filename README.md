@@ -1,3 +1,3 @@
 `ruby server.rb`
 
-Confiugration options are present in keystore.rb
+Configuration options are present in keystore.rb
